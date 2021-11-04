@@ -1,10 +1,3 @@
 This is a code file.
-awesome
-sauce
-this
-isabughere
-hello!
-jfdsalk;fjsadfjdkl
-this is my new code
-commit1
-commit 2
+This is a pretty big change to existing code.
+Additional changes to this file.
